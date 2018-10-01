@@ -19,4 +19,5 @@
 #### Add your favorite Web API
 
 Note : Open Contribute for list all Web API
-Inspired from Unconference [WebUnconfID - WWWID](https://webunconfid.wwwid.org) @w3id
+Inspired from Unconference [WebUnconfID - WWWID](https://webunconfid.wwwid.org)
+[W3ID](https://github.com/w3id)
